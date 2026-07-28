@@ -26,4 +26,4 @@ The application measures how fast and accurately a user can type a given text. I
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Typing-Speed-Test.git
+git clone https://github.com/feventiti06-sys/Typing-Speed-Test.git
